@@ -15,24 +15,25 @@ Education
 * HSC, Engineering University Uchcha Madhyamik Bidyalaya, 2013
 * BSc in Computer Science and Engineering, United International University, 2018
 
-Work experience
-======
 Skills
 ======
+
 * Theory
   * Machine Learning
   * Data Visualization
   * Statistics
   * Data Structure and Algorithms
+
 * Programming
-  *Python
-  *R
-  *Java
-*Software and Libraries
-  *Scikit and Tensorflow
-  *Anaconda
-  *RStudio
-  *MS Office
+  * Python
+  * R
+  * Java
+
+* Software and Libraries
+  * Scikit and Tensorflow
+  * Anaconda
+  * RStudio
+  * MS Office
 
 Publications
 ======
