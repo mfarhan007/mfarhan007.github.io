@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Another speck in the universe"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Mirza Farhan Bin Tarek"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://mfarhan007.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mfarhan007/mfarhan007.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mirza Farhan Bin Tarek"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Dhaka, Bangladesh"
+  location         : "Location"
   employer         :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :  "mirza.farhan074@outlook.com"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,20 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mfarhan007"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "www.linkedin.com/in/mirzafarhan074"
-
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -253,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Dhaka # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
