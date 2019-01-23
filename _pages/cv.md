@@ -11,31 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* SSC, Engineering University School, 2011
+* HSC, Engineering University Uchcha Madhyamik Bidyalaya, 2013
+* BSc in Computer Science and Engineering, united International University, 2018
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Theory
+  * Machine Learning
+  * Data Visualization
+  * Statistics
+  * Data Structure and Algorithms
+* Programming
+  *Python
+  *R
+  *Java
+*Software and Libraries
+  *Scikit and Tensorflow
+  *Anaconda
+  *RStudio
+  *MS Office
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +51,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
