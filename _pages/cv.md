@@ -11,14 +11,17 @@ redirect_from:
 
 Education
 ======
+
 * SSC, Engineering University School, 2011
 * HSC, Engineering University Uchcha Madhyamik Bidyalaya, 2013
-* BSc in Computer Science and Engineering, united International University, 2018
+* BSc in Computer Science and Engineering, United International University, 2018
+
 Work experience
 ======
 
 Skills
 ======
+
 * Theory
   * Machine Learning
   * Data Visualization
@@ -38,16 +41,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+* Erasmus+ KA1 mobility to Staffordshire University, United Kingdom (October, 2017- April, 2018)
