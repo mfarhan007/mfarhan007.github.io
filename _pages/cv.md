@@ -35,6 +35,16 @@ Skills
   * RStudio
   * MS Office
 
+Projects
+======
+
+* BDDoctors (10/2017 – 12/2017): An online doctor appointment system with database. Users
+can easily book appointments with preferred doctors according to their location, specialtyPage 2
+etc.
+* MediTest (06/2017 – 08/2017): An online medical test booking site where users can book
+different medical tests in hospitals/clinics near their locations.
+* Arduino powered obstacle avoiding robot.
+
 Publications
 ======
   <ul>{% for post in site.publications %}
